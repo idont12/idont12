@@ -5,14 +5,11 @@ I love solving problems and creating cool and impactful interactive experiences 
 ---
 
 ## 🌟 About Me  
-- **Skills**:  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,unity,threejs,react&perline=4)](https://skillicons.dev)
-  
-- **Core Values**:  
+
   🖌️ Creativity | 🌐 Accessibility | 🌟 Innovation  
   > *"Luck Is What Happens When Preparation Meets Opportunity"*  
   — *Seneca*
-
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,unity,threejs,react)](https://skillicons.dev)
 ---
 
 ## 📫 Contact Me  
