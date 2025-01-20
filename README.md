@@ -15,6 +15,6 @@ I love solving problems and creating cool and impactful interactive experiences 
 
 ## 📫 Contact Me  
 Feel free to connect with me on:  
-- [LinkedIn](https://www.linkedin.com/in/yarden-zilberman-graphic-and-game-design/)  
-- [Instagram](https://www.instagram.com/hapy_toon/)  
+- [LinkedIn](https://www.linkedin.com/in/yarden-zilberman-graphic-and-game-design/){:target="_blank"}   
+- [Instagram](https://www.instagram.com/hapy_toon/){:target="_blank"}   
 - Email: [yardenzilbrman.mail@gmail.com](mailto:yardenzilbrman.mail@gmail.com)
